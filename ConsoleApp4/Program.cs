@@ -8,7 +8,6 @@ namespace EncryptingMessage
 		static void Main(string[] args)
 		{
 			string input;
-			string x = "áâãàéêíóõôúüç";
 			Console.WriteLine("Digite algo a ser criptografado:");
 			input = Console.ReadLine();
 
